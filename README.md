@@ -64,8 +64,6 @@ To see how you can add code snippets, see below:
 }
 ```
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 This was the first project I really focused on using the BEM class naming convention. I found that BEM is incredibly helpful in organizing the overall structure of the CSS design.
