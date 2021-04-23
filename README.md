@@ -77,5 +77,5 @@ This was the first project I really focused on using the BEM class naming conven
 ## Author
 
 - Website - [Glen Taylor](https://www.glenmtaylor.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/chiptaylor)
+- Frontend Mentor - [@chiptaylor](https://www.frontendmentor.io/profile/chiptaylor)
 - Twitter - [@leaderchip](https://www.twitter.com/leaderchip)
