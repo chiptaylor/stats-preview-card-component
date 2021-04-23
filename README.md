@@ -72,7 +72,7 @@ This was the first project I really focused on using the BEM class naming conven
 
 ### Useful resources
 
-- [Kevin Powell's Courses](https://www.kevinpowell.co/courses/) - TKevin Powell's CSS resources are second to none and have always been my goto resource for CSS design.
+- [Kevin Powell's Courses](https://www.kevinpowell.co/courses/) - Kevin Powell's CSS resources are second to none and have always been my goto resource for CSS design.
 
 ## Author
 
