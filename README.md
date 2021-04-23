@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://instructiondesigns.org/stats-preview-card-component/)
-- Live Site URL: [Add live site URL here](https://instructiondesigns.org/stats-preview-card-component/)
+- Solution URL: [https://instructiondesigns.org/stats-preview-card-component/](https://instructiondesigns.org/stats-preview-card-component/)
+- Live Site URL: [https://instructiondesigns.org/stats-preview-card-component/](https://instructiondesigns.org/stats-preview-card-component/)
 
 ## My process
 
